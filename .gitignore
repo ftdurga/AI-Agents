@@ -1,4 +1,8 @@
-notes.txt
 .env
+notes.txt
+.ipynb_checkpoints
+__pycache__
 
-/venv
+/.venv
+/.vscode
+/llm_engineering.egg-info
